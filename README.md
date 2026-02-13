@@ -1,6 +1,6 @@
 # 🏥 BRADESCO SAÚDE em Dia
 
-Assistente Conversacional Preventivo via WhatsApp para monitoramento contínuo da saúde física e psicológica de segurados, com foco em redução de sinistralidade e gestão inteligente de risco populacional.
+Assistente Conversacional Preventivo via WhatsApp para monitoramento contínuo da saúde física e psicológica de segurados, com foco em redução de sinistralidade, aproximação com o cliente e gestão inteligente de risco populacional.
 
 ---
 
