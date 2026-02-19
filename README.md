@@ -2,6 +2,9 @@
 
 Assistente Preventivo com Inteligência Artificial voltado à redução de sinistralidade em planos de saúde corporativos.
 
+🔗 Acesse o notebook no Google Colab:
+https://colab.research.google.com/drive/1in5_v3-ArPmGBCV0NNRpOmsLhuC8bi0R?usp=sharing
+
 Projeto desenvolvido no contexto do Bootcamp GenAI e Dados (DIO + Bradesco), com aplicação prática em Saúde Corporativa.
 
 ---
